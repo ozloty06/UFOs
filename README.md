@@ -16,16 +16,15 @@ Our final result is the webpage found in figure 1. The webpage includes a large 
 ##### Fig. 1 - "The Truth is Out There" webpage screen capture.
 
 
-Enhancements to the webpage center on the filter search criteria section. For comparison, Figure 2 provides a view of the prior search criteria before the webpage was enhanced for additional search filters, while Figure 3 provides the enhanced filtered search criteria.
 
-![Image of original search filter](https://github.com/ozloty06/UFOs/blob/main/static/images/Screen%20Shot%202021-07-11%20at%2010.42.31%20PM.png)
-##### Fig. 2 - Original Search Filter.
+Enhancements to the webpage center on the filter search criteria section. For comparison, Figure 2 provides a view of the prior search criteria before the webpage was enhanced for additional search filters (left) and the enhanced filtered search criteria (right).
 
 ![Image of original search filter](https://github.com/ozloty06/UFOs/blob/main/static/images/criteria.png)
-##### Fig. 3 - Enhanced Search Filter.
+##### Fig. 2 - Original Search Filter (left) and Enhanced Search Filter (right).
 
 
-In order to conduct a search of the existing data, the user may choose to enter search criteria for any one of the input fields provided, all of them, or any combination of criteria. When no criteria is entered in a field, the table produces all the available data for that particular column heading. See Figure 4 for an example filtered search of observations in the USA that described a circle shaped object.
+
+In order to conduct a search of the existing data, the user may choose to enter search criteria for any one of the input fields provided, all of them, or any combination of criteria. When no criteria is entered in a field, the table produces all the available data for that particular column heading. See Figure 3 for an example filtered search of observations in the USA that described a circle shaped object.
 
 Search criteria allows the user to filter by:
 - Date of UFO observation
@@ -35,7 +34,8 @@ Search criteria allows the user to filter by:
 - Shape of UFO observation described (i.e. circle, triangle, light, unknown, etc.)
 
 ![Image of a filtered search](https://github.com/ozloty06/UFOs/blob/main/static/images/filtering.png)
-##### Fig. 4 - Conducting a Filtered Search.
+##### Fig. 3 - Conducting a Filtered Search.
+
 
 
 ## Summary
